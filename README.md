@@ -1,10 +1,7 @@
-> [!WARNING]
-> This repo will no longer receive updates. Thank you to everyone who supported it.
-
 <br/>
 <p align="center">
-  <a href="https://github.com/zfcsoftware/puppeteer-real-browser">
-    <img src="https://github.com/zfcsoftware/puppeteer-real-browser/assets/123484092/cc8b5fb9-504a-4fd3-97f6-a51990bb4303" alt="Logo" width="80" height="80">
+  <a href="https://github.com/uz3rname/puppeteer-real-browser">
+    <img src="https://github.com/uz3rname/puppeteer-real-browser/assets/123484092/cc8b5fb9-504a-4fd3-97f6-a51990bb4303" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Puppeteer Real Browser</h3>
@@ -38,7 +35,7 @@
 If you are using a Linux operating system, xvfb must be installed for the library to work correctly.
 
 ```bash
-npm i puppeteer-real-browser
+npm i @em4nr3zu/puppeteer-real-browser
 ```
 
 if you are using linux:
