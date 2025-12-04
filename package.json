@@ -35,7 +35,7 @@
     "puppeteer-undetect-cf",
     "puppeteer-undetectable-cf-bypass"
   ],
-  "author": "zfc-software",
+  "author": "zfc-software && uz3rname",
   "license": "ISC",
   "dependencies": {
     "chrome-launcher": "^1.1.2",
